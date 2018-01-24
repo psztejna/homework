@@ -1,0 +1,5 @@
+4
+Anna Nowak 23 1000
+Monika Kowalska 19 2000
+Krzysztof Piasecki 53 2500
+Wojciech Ireneusz 56 2700
